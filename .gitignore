@@ -1,0 +1,11 @@
+out
+logs
+node_modules
+.vscode-test/
+.vsix
+npm-debug.log
+vsc-extension-quickstart.md
+*.vsix
+coverage
+*.nyc_output
+*.env
